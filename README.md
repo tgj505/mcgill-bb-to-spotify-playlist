@@ -10,9 +10,10 @@ Designed specifically to explore and contextualize the [McGill Billboard Corpus]
 	3. Download directly from [**Dropbox**](https://www.dropbox.com/s/l6ikkalnj0v1fu8/mcgill-bb-playlist.html?dl=0).
 * **data/mcgill-bb-playlist-metadata.pickle**. Pickled dataframe of Spotify metadata for each track. 
 
+### Top Spotify Musician Genres
+![Alt text](top_genres_plot.png?raw=true "Title")
+
 ### *Spotify Metadata Analysis*
-
-
 
 
 You can read in the **pickle** as a dict object in Python using: 
