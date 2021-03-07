@@ -4,7 +4,7 @@ Designed to explore and contextualize the [McGill Billboard Corpus]('https://ddm
 
 ## Some results
 * [**Spotify Playlist**](https://open.spotify.com/playlist/2whWrl00XDSf1omDLkjBDV) of 691 songs from the McGill Corpus.
-* **data/mcgill-bb-playlist.html** some basic playlist analysis from Spotify metadata
+* **data/mcgill-bb-playlist.html** some basic playlist analysis from Spotify metadata. Download and open this to see plots and summaries of artist genres, track popularity, dates, and "acoustic features."
 * **data/mcgill-bb-playlist-metadata.pickle**. Pickled dataframe of Spotify metadata for each track. 
 
 *Spotify Metadata Notes*
@@ -34,5 +34,3 @@ Check the pathing as necessary; **set root directory** variable. I'm still learn
 This will read in the `data/mcgill_billboard_index.csv`, query the `spotipy` API to get the track and musician URIs, and create a playlist.
 
 It will open a browser tab to ask you to log in to your Spotify account. 
-
-
