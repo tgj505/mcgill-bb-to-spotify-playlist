@@ -4,14 +4,18 @@ Designed specifically to explore and contextualize the [McGill Billboard Corpus]
 
 ## Some results
 * [**Spotify Playlist**](https://open.spotify.com/playlist/2whWrl00XDSf1omDLkjBDV) of 691 songs from the McGill Corpus.
-* **data/mcgill-bb-playlist.html** some basic playlist analysis from Spotify metadata. To view the **.html** analysis file, you can either:
-	1. **Clone** this repo, *or...*
-	2. [**Save linked page**](https://raw.githubusercontent.com/tgj505/mcgill-bb-to-spotify-playlist/main/data/mcgill-bb-playlist.html) as an **.html** file, then open in-browser for plots and summaries of artist genres, track popularity, dates, and "acoustic features", *or...*
-	3. Download directly from [**Dropbox**](https://www.dropbox.com/s/l6ikkalnj0v1fu8/mcgill-bb-playlist.html?dl=0).
+* **data/mcgill-bb-playlist.html** some basic playlist analysis from Spotify metadata. 
 * **data/mcgill-bb-playlist-metadata.pickle**. Pickled dataframe of Spotify metadata for each track. 
 
 ### Top Spotify Musician Genres in McGill Corpus
 ![Top Genres](./data/top_genres_plot.png)
+
+To view full analysis (<a src='./data/mcgill-bb-playlist.html'>here</a>):
+1. **Clone** this repo, *or...*
+2. [**Save this linked page**](https://raw.githubusercontent.com/tgj505/mcgill-bb-to-spotify-playlist/main/data/mcgill-bb-playlist.html) as an **.html** file, then open in-browser for plots and summaries of artist genres, track popularity, dates, and "acoustic features", *or...*
+3. Download directly from [**Dropbox**](https://www.dropbox.com/s/l6ikkalnj0v1fu8/mcgill-bb-playlist.html?dl=0).
+
+
 
 ### *Spotify Metadata Analysis*
 
