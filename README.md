@@ -11,7 +11,7 @@ Designed specifically to explore and contextualize the [McGill Billboard Corpus]
 * **data/mcgill-bb-playlist-metadata.pickle**. Pickled dataframe of Spotify metadata for each track. 
 
 ### Top Spotify Musician Genres in McGill Corpus
-![Top Genres in ](top_genres_plot.png "Top Genres in Corpus")
+![Top Genres](./data/top_genres_plot.png)
 
 ### *Spotify Metadata Analysis*
 
